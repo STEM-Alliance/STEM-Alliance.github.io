@@ -1,5 +1,6 @@
 # STEM Alliance of Fargo Moorhead
 
+# Web site source has moved, please visit us at https://stemalliancefm.org
 ## Prereqs
 
 - Ruby 2.5
